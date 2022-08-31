@@ -1,1 +1,1 @@
-The basics commands for shell
+Display the contents list of your current directory.

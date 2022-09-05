@@ -1,0 +1,2 @@
+#e!/in/bash
+find . -ty d -not -name '.' | wc -l
